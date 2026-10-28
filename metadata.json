@@ -1,0 +1,5 @@
+{
+  "name": "JY Music",
+  "description": "Offline desktop music player with ID3 metadata & cover art, 10-band equalizer, playlists and queue.",
+  "requestFramePermissions": []
+}
